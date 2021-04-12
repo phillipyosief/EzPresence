@@ -1,0 +1,18 @@
+{
+  "details": {
+    "author": "philliphqs",
+    "last_update": "04.03.2021 / 10:32",
+    "github": "philliphqs"
+  },
+  "first": {
+    "title": "EzPresence Installation",
+    "description": "Das Installationsprogramm wird nun EzPresence auf ihrem Computer installieren."
+  },
+  "second": {
+    "title": "Installiere EzPresence..."
+  },
+  "buttons": {
+    "continue": "Fortsetzen",
+    "cancel": "Abbrechen"
+  }
+}

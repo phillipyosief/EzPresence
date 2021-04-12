@@ -1,0 +1,37 @@
+{
+  "details": {
+    "author": "philliphqs",
+    "last_update": "04.03.2021 / 10:32",
+    "github": "philliphqs"
+  },
+  "windows": {
+    "advanced": {
+      "clientid": "ClientID",
+      "large_image": "Large Image",
+      "small_image": "Small Image",
+      "large_text": "Large Text",
+      "small_text": "Small Text"
+    },
+    "footer": {
+      "start_richpresence": "Starte RichPresence",
+      "refresh_preview": "Aktualisiere vorschau",
+      "close_richpresence": "Stoppe RichPresence",
+      "advanced": "Erweitert",
+      "use_buttons": "Benutze knöpfe"
+    },
+    "main": {
+      "details": "Details",
+      "state": "State"
+    },
+    "menubar": {
+
+    },
+    "preview": {
+      "preview_options": "Vorschau optionen",
+      "popup": "Popup"
+    },
+    "usebuttons": {
+      "buttons": "Knöpfe"
+    }
+  }
+}

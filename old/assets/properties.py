@@ -1,0 +1,3 @@
+ProductName = ''
+ProductVersion = ''
+ProductAuthor = ''
